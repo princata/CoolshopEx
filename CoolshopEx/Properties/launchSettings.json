@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoolshopEx": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\file.csv 2 Alberto"
+    }
+  }
+}

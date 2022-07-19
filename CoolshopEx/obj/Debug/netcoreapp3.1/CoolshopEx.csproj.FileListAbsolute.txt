@@ -1,0 +1,14 @@
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.exe
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.deps.json
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.runtimeconfig.json
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.runtimeconfig.dev.json
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.dll
+E:\step9\Documents\Coolshop\CoolshopEx\bin\Debug\netcoreapp3.1\CoolshopEx.pdb
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.csproj.AssemblyReference.cache
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.GeneratedMSBuildEditorConfig.editorconfig
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.AssemblyInfoInputs.cache
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.AssemblyInfo.cs
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.csproj.CoreCompileInputs.cache
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.dll
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.pdb
+E:\step9\Documents\Coolshop\CoolshopEx\obj\Debug\netcoreapp3.1\CoolshopEx.genruntimeconfig.cache
